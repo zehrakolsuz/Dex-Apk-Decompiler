@@ -1,4 +1,4 @@
-# 📱 APK Decompiler 
+# 📱 DEX - APK Decompiler 
 
 Bu araç, Android APK dosyalarının içeriğini analiz etmek ve içindeki DEX (Dalvik Executable) kodlarını okunabilir hale getirmek amacıyla geliştirilmiştir. Özellikle adli bilişim, güvenlik analizleri ve tersine mühendislik süreçlerinde kullanılabilir.
 
